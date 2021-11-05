@@ -7,9 +7,9 @@ Difficulty 1: 1 security robot (Easy) <br />
 Difficulty 2: 2 security robots (Hard)<br />
 Difficulty 3: 3 security robots (Insane) <br />
 <br />
-Blue:   &ensp;Player <br />
-Green:  Exit (Get there to win) <br />
-Red:    Security Robot <br />
+Blue:   &nbsp;Player <br />
+Green:  &nbsp;Exit (Get there to win) <br />
+Red:    &nbsp;Security Robot <br />
 Yellow: Torch Light (Dont stand in there) <br />
 <br />
 1. Select difficulty and start the game.
