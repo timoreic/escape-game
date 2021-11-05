@@ -3,10 +3,10 @@ A game where you need to guide a player character from one end of a room to the 
 
 # Instructions
 <pre>
-Difficulty 0: No security robot 
-Difficulty 1: 1 security robot (Easy)
-Difficulty 2: 2 security robots (Hard)
-Difficulty 3: 3 security robots (Insane) 
+Difficulty 0: No Security Robot 
+Difficulty 1: 1 Security Robot (Easy)
+Difficulty 2: 2 Security Robots (Hard)
+Difficulty 3: 3 Security Robots (Insane) 
 
 Blue:   Player 
 Green:  Exit (Get there to win) 
