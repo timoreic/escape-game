@@ -7,10 +7,10 @@ Difficulty 1: 1 security robot (Easy) <br />
 Difficulty 2: 2 security robots (Hard)<br />
 Difficulty 3: 3 security robots (Insane) <br />
 <br />
-Blue:   <pre>Player <br />
-Green:  <pre>Exit (Get there to win) <br />
-Red:    <pre>Security Robot <br />
-Yellow: <pre>Torch Light (Dont stand in there) <br />
+Blue:   &nbsp;Player <br />
+Green:  &nbsp;Exit (Get there to win) <br />
+Red:    &nbsp;Security Robot <br />
+Yellow: &nbsp;Torch Light (Dont stand in there) <br />
 <br />
 1. Select difficulty and start the game.
 2. Roll the die and use your moves carefully to guide the player to green field on the other side of the room. 
