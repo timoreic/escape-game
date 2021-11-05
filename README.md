@@ -1,10 +1,10 @@
 # escape-game
 A game where you need to guide a player character from one end of a room to the other end of the room. But watch out and don't get caught by the security robots!
 
-Difficulty 0: No security robot
-Difficulty 1: 1 security robot (Easy)
-Difficulty 2: 2 security robots (Hard)
-Difficulty 3: 3 security robots (Insane)
+Difficulty 0: No security robot <br />
+Difficulty 1: 1 security robot (Easy) <br />
+Difficulty 2: 2 security robots (Hard)<br />
+Difficulty 3: 3 security robots (Insane) <br />
 
 # Instructions
 1. Select difficulty and start the game.
